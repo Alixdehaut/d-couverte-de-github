@@ -1,2 +1,2 @@
-# d-couverte-de-github
+# decouverte-de-github
 Projet 1
